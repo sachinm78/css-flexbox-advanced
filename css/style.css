@@ -1,4 +1,15 @@
-html, body {
-    margin: 0;
-    padding: 0;
+.card {
+    width: 90%;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.card-title {
+    color: #05cbe9;
+    font-size: 1.75rem;
+    font-family: 'Blinker', sans-serif;
+}
+
+.card-body {
+    font-size: 1rem;
 }
